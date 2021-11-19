@@ -1,0 +1,78 @@
+
+body{
+font-family: Verdana, sans-serif;
+background-color: lightgrey ;
+}
+footer{
+font-family: Verdana, sans-serif;
+padding: 5px;
+}
+button:active{
+background-color: red;
+color: white;
+}
+
+header{
+font-family: courier, monospace;
+  color: black;
+background-color: red;
+height: 200px;
+width: #100%;
+padding: 5px;
+}
+h1{
+padding: 15px 10px 10px 20px;
+}
+#footercv{
+margin-top: 300px;
+}
+#footercontact{
+margin-top: 15px;
+}
+
+section{
+background-color: #F9BABA;
+padding:10px;
+width: 400px;
+margin-top: 10px;
+margin-right: 500px;
+margin-bottom: 10px;
+margin-left: 500px;
+}
+li{
+display: inline-block;
+height: 22px;
+width: 100px;
+padding: 12px;
+text-align: center;
+color: white;
+border-left: 2px solid black;
+border-right: 1px solid black;
+background-color: white;
+}
+li:hover{
+background-color: lightgrey;
+border-style: none;
+}
+textarea{
+  width: 300px;
+  height: 150px;
+}
+form{
+  background-color: #F9BABA;
+  padding: 5px;
+  width: 350px;
+margin: 10px 5px 10px 500px;
+}
+#cvtabel{
+  background-color: #F9BABA;
+  padding: 10px;
+  width: 650px;
+  margin-top: 10px;
+  margin-right: 400px;
+  margin-bottom: 10px;
+  margin-left: 400px;
+}
+table{
+  border-collapse: collapse;
+}
